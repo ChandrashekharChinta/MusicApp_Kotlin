@@ -3,8 +3,6 @@
 
 This project is a music app UI design implemented in Kotlin using Jetpack Compose. It features various screens, icons, and components for creating an engaging music app experience.
 
-## Screenshots
-
 
 ## Features
 
@@ -61,7 +59,4 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
 3. Make your changes.
 4. Submit a pull request.
 
-## License
-
-This project is licensed under the [License Name] license. See the LICENSE file for details.
 
