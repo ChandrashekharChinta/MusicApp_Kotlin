@@ -5,7 +5,6 @@ This project is a music app UI design implemented in Kotlin using Jetpack Compos
 
 ## Screenshots
 
-Include screenshots or GIFs showcasing the different screens of your app. You can add them directly to your README or create a separate folder for them.
 
 ## Features
 
@@ -38,8 +37,20 @@ Include screenshots or GIFs showcasing the different screens of your app. You ca
 
 ## Dependencies
 
-- [Compose version]: Jetpack Compose library
-- [Other libraries]: Any additional dependencies you've used
+Jetpack Compose library
+
+
+import android.os.Bundle
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.setContent
+import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
+import androidx.compose.ui.Modifier
+import com.example.musicapp.ui.theme.MainView
+import com.example.musicapp.ui.theme.MusicAppTheme
+
 
 ## Contributing
 
