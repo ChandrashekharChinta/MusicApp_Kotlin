@@ -1,5 +1,5 @@
 ﻿# MusicApp_Kotlin
- # Music App UI Design
+ # Music App Using Kotlin
 
 This project is a music app UI design implemented in Kotlin using Jetpack Compose. It features various screens, icons, and components for creating an engaging music app experience.
 
